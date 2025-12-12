@@ -1,1 +1,1 @@
-# qa_guru_21
+# allure-pytest-example
